@@ -8,3 +8,6 @@ javascript版的leetcode题解,记录自己刷题历程,希望可以坚持下去
 
 * [925. 长键输入](https://github.com/skypesky/leetcode-for-javascript/blob/master/925.%20%E9%95%BF%E9%94%AE%E8%BE%93%E5%85%A5.md)
 
+
+* [125. 验证回文串](./125.验证回文串.md)
+
