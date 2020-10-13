@@ -10,3 +10,5 @@ javascript版的leetcode题解,记录自己刷题历程,希望可以坚持下去
 
 * [125. 验证回文串](https://github.com/skypesky/leetcode-for-javascript/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 
+* [345. 反转字符串中的元音字母](https://github.com/skypesky/leetcode-for-javascript/blob/master/345.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.md)
+
