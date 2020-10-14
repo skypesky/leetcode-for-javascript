@@ -12,4 +12,6 @@ javascript版的leetcode题解,记录自己刷题历程,希望可以坚持下去
 
 * [345. 反转字符串中的元音字母](https://github.com/skypesky/leetcode-for-javascript/blob/master/345.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.md)
 
-> tips: 题目描述皆来自于(leetcode-cn.com)[https://leetcode-cn.com/]
+* [15. 三数之和](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+
+> tips: 题目描述皆来自于 [leetcode-cn.com](https://leetcode-cn.com/)
