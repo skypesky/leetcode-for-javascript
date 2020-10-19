@@ -18,4 +18,6 @@ javascript版的leetcode题解,记录自己刷题历程.
 
 * [986. 区间列表的交集](https://github.com/skypesky/leetcode-for-javascript/blob/master/986.%20%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86.md)
 
+* [763. 划分字母区间](https://github.com/skypesky/leetcode-for-javascript/blob/master/763.%20%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.md)
+
 > tips: 题目描述皆来自于 [leetcode-cn.com](https://leetcode-cn.com/)
