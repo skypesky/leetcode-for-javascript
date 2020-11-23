@@ -3,6 +3,8 @@ javascript版的leetcode题解,记录自己刷题历程.
 
 ## 目录
 
+* [1. 两数之和.md](https://github.com/skypesky/leetcode-for-javascript/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+
 * [15. 三数之和](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 * [62. 不同路径](https://github.com/skypesky/leetcode-for-javascript/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
