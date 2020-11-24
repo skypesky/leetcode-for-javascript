@@ -24,6 +24,8 @@ javascript版的leetcode题解,记录自己刷题历程.
 * [925. 长键输入](https://github.com/skypesky/leetcode-for-javascript/blob/master/925.%20%E9%95%BF%E9%94%AE%E8%BE%93%E5%85%A5.md)
  
 * [986. 区间列表的交集](https://github.com/skypesky/leetcode-for-javascript/blob/master/986.%20%E5%8C%BA%E9%97%B4%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86.md)
+
+* [1480. 一维数组的动态和.md](https://github.com/skypesky/leetcode-for-javascript/blob/master/1480.%20%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%A8%E6%80%81%E5%92%8C.md)
  
 * [面试题 17.11. 单词距离](https://github.com/skypesky/leetcode-for-javascript/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.11.%20%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB.md)
  
