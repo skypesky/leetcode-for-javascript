@@ -3,9 +3,9 @@ javascript版的leetcode题解,记录自己刷题历程.
 
 ## 目录
 
-* [1. 两数之和.md](https://github.com/skypesky/leetcode-for-javascript/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+* [1. 两数之和](https://github.com/skypesky/leetcode-for-javascript/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
-* [2. 两数相加.md](https://github.com/skypesky/leetcode-for-javascript/blob/master/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
+* [2. 两数相加](https://github.com/skypesky/leetcode-for-javascript/blob/master/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 
 * [15. 三数之和](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
