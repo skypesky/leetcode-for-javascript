@@ -8,6 +8,7 @@ javascript版的leetcode题解,记录自己刷题历程.
 |-   |-   |-  |-   |
 | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  |
 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) |  |  |
+| [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md) |  |  |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  | 
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) |  |  | 
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
