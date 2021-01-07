@@ -1,5 +1,5 @@
 # leetcode-for-javascript
-javascript版的leetcode题解,记录自己刷题历程.
+javascript版的leetcode题解.
 
 ## 目录
 
