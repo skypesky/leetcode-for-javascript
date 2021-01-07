@@ -37,5 +37,9 @@ javascript版的leetcode题解.
 | [1704. 判断字符串的两半是否相似](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/1704.%20%E5%88%A4%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%B8%A4%E5%8D%8A%E6%98%AF%E5%90%A6%E7%9B%B8%E4%BC%BC.md) |  |  | 
 | [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/LCP01/LCP%2001.%20%E7%8C%9C%E6%95%B0%E5%AD%97.md) |  |  | 
 | [面试题 17.11. 单词距离](https://leetcode-cn.com/problems/find-closest-lcci/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.11.%20%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB.md) |  |  | 
- 
+
+## tags
+| 标签 | 描述 |
+| - | - |
+|回溯 | 当你需要穷举出符合条件的组合的时候,可以考虑使用它,比如全排列. |
 > tips: 题目描述皆来自于 [leetcode-cn.com](https://leetcode-cn.com/)
