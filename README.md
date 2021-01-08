@@ -1,8 +1,8 @@
 # leetcode-for-javascript
-javascript版的leetcode题解.
+
+javascript 版的 leetcode 题解.
 
 ## 目录
-
 
 |题目|题解|tag|备注|
 |-   |-   |-  |-   |
@@ -41,7 +41,9 @@ javascript版的leetcode题解.
 | [面试题 17.11. 单词距离](https://leetcode-cn.com/problems/find-closest-lcci/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.11.%20%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB.md) |  |  | 
 
 ## tags
-| 标签 | 描述 |
-| - | - |
-|回溯 | 当你需要穷举出符合条件的组合的时候,可以考虑使用它,比如全排列. |
+
+| 标签 | 描述                                                          |
+| ---- | ------------------------------------------------------------- |
+| 回溯 | 当你需要穷举出符合条件的组合的时候,可以考虑使用它,比如全排列. |
+
 > tips: 题目描述皆来自于 [leetcode-cn.com](https://leetcode-cn.com/)
