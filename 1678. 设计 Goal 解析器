@@ -1,0 +1,14 @@
+* 正则表达式
+```javascript
+/**
+ * @param {string} command
+ * @return {string}
+ */
+var interpret = function (command) {
+    const map = {
+        "()": "o",
+        "(al)": "al",
+    };
+    return command.replace(/\(al\)|\(\)/g, (match) => map[match]);
+};
+```
