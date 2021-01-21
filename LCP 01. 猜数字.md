@@ -1,4 +1,6 @@
 
+# [LCP 01. 猜数字](https://leetcode-cn.com/problems/guess-numbers/)
+
 ```javascript
 /**
  * @param {number[]} guess
