@@ -16,7 +16,7 @@ javascript 版的 leetcode 题解.
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |  |  |  
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 快慢指针 |  |  
 | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) |  |  |  
-| [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/290.-%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B/290.%20%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B.md) |  |  |  
+| [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/290.%20%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B.md) |  |  |  
 | [345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/345.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.md) |  |  |  
 | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/389.-%E6%89%BE%E4%B8%8D%E5%90%8C/389.%20%E6%89%BE%E4%B8%8D%E5%90%8C.md) |  |  |  
 | [494. 目标和](https://leetcode-cn.com/problems/target-sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/494.%20%E7%9B%AE%E6%A0%87%E5%92%8C.md) | 回溯,HashMap |  |  
