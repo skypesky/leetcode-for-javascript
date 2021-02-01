@@ -1,6 +1,8 @@
 
 # [599. 两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/)
 
+- 哈希表
+
 ```ts
 function findRestaurant(list1: string[], list2: string[]): string[] {
     const results: string[] = [],
