@@ -12,6 +12,7 @@ javascript 版的 leetcode 题解.
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  | 
 | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/38.-%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97/38.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md) |  |  | 
 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md) | 回溯 |  | 
+| [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/49.-%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md) | 哈希表 | |
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) |  |  | 
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |  |  |  
