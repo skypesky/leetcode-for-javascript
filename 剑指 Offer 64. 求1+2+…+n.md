@@ -8,3 +8,12 @@ function sumNums(n: number): number {
     return ((1 + n) * n) / 2;
 };
 ```
+
+- 递归
+
+```ts
+function sumNums(n: number): number {
+    n && (n += sumNums(n - 1));
+    return n;
+};
+```
