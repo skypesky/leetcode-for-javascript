@@ -4,6 +4,12 @@
 - 滑动窗口
 
 ```ts
+/**
+ *
+ * @complex T(n)/S(1)
+ * @param {number} target
+ * @return {*}  {number[][]}
+ */
 function findContinuousSequence(target: number): number[][] {
 
     const results: number[][] = [];
@@ -32,8 +38,8 @@ function findContinuousSequence(target: number): number[][] {
 
 function build(left: number, right: number): number[] {
     const results: number[] = [];
-    while (left++ < right) {
-        results.push(left);
+    while (left < right) {
+        results.push(left++);
     }
     return results;
 }
