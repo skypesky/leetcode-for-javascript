@@ -4,8 +4,6 @@
 - 滑动窗口
 
 ```ts
-import { resourceLimits } from "worker_threads";
-
 function findContinuousSequence(target: number): number[][] {
 
     const results: number[][] = [];
@@ -23,7 +21,7 @@ function findContinuousSequence(target: number): number[][] {
         }
 
         current === target && results.push(build(left, right));
-       
+
         current -= left;
         ++left;
 
@@ -34,9 +32,8 @@ function findContinuousSequence(target: number): number[][] {
 
 function build(left: number, right: number): number[] {
     const results: number[] = [];
-    while (left < right) {
+    while (left++ < right) {
         results.push(left);
-        ++left;
     }
     return results;
 }
