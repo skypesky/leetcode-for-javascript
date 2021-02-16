@@ -44,3 +44,8 @@ function build(left: number, right: number): number[] {
     return results;
 }
 ```
+
+- 数学法(等差数列求和 + 一元二次方程)
+```ts
+// 选做,不要求
+```
