@@ -20,6 +20,7 @@ javascript 版的 leetcode 题解.
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |  |  |  
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 快慢指针 |  |  
+| [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/164.%20%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | | |
 | [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.md) | 进制转换 | 值得一做 |
 | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 哈希表 |  |
 | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 迭代 |  |
