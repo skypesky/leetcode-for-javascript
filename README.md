@@ -19,7 +19,7 @@ javascript 版的 leetcode 题解.
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) |  |  | 
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |  |  |  
-| [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.md) | | |
+| [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.md) | 哈希表 | |
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 快慢指针 |  |  
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/164.%20%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | | |
 | [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.md) | 进制转换 | 值得一做 |
