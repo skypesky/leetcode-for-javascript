@@ -44,3 +44,34 @@ function lengthOfLongestSubstring(s: string): number {
     return maxLen;
 };
 ```
+
+- 直接遍历 + 哈希表
+
+```ts
+/**
+ *
+ * @complex T(n)/S(1) => 字符串的数量是一个常数,所以空间复杂度也是一个常数
+ * @param {string} s
+ * @return {*}  {number}
+ */
+function lengthOfLongestSubstring(s: string): number {
+
+    const map: Map<string, number> = new Map<string, number>();
+
+    let leftIndex: number = -1,
+        maxLen: number = 0;
+
+    for (let i = 0; i < s.length; ++i) {
+        leftIndex = map.has(s[i])
+            ? Math.max(map.get(s[i]), leftIndex)
+            : leftIndex;
+        map.set(s[i], i);
+        maxLen = Math.max(
+            maxLen,
+            i - leftIndex,
+        );
+    }
+
+    return maxLen;
+};
+```
