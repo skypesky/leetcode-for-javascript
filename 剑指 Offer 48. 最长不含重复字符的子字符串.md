@@ -63,7 +63,7 @@ function lengthOfLongestSubstring(s: string): number {
 
     for (let i = 0; i < s.length; ++i) {
         leftIndex = map.has(s[i])
-            ? Math.max(map.get(s[i]), leftIndex)
+            ? Math.max(map.get(s[i]), leftIndex)  // 这个地方有点无法理解
             : leftIndex;
         map.set(s[i], i);
         maxLen = Math.max(
