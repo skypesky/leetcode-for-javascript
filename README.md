@@ -22,6 +22,7 @@ javascript 版的 leetcode 题解.
 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.md) | 哈希表 | |
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 快慢指针 |  |  
 | [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/164.%20%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.md) | | |
+| [166. 分数到小数](leetcodeUrl) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/166.%20%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0.md) | 哈希表,设计 | 需要比较细致的思考 |
 | [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.md) | 进制转换 | 值得一做 |
 | [187. 重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/187.%20%E9%87%8D%E5%A4%8D%E7%9A%84DNA%E5%BA%8F%E5%88%97.md) | 哈希表,Rabin-Karp,掩码 | |
 | [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 哈希表 |  |
