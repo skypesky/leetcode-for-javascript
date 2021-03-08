@@ -13,6 +13,7 @@ javascript 版的 leetcode 题解.
 | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md) | 双指针,字符串,反转 | |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  | 
 | [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md) | 哈希表 | |
+| [37. 解数独](leetcodeUrl) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/37.%20%E8%A7%A3%E6%95%B0%E7%8B%AC.md) | 哈希表,DFS | 必做题! |
 | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/38.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md) |  |  | 
 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md) | 回溯 |  | 
 | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md) | 哈希表 | |
