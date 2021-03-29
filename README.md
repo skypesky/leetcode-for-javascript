@@ -1,6 +1,6 @@
 # leetcode-for-javascript
 
-javascript 版的 leetcode 题解.
+我的 leetcode 个人首页: [leetcode个人首页](https://leetcode-cn.com/u/skypesky/)
 
 ## 目录
 
