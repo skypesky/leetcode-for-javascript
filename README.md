@@ -15,6 +15,7 @@
 | [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md) | 哈希表 | |
 | [37. 解数独](leetcodeUrl) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/37.%20%E8%A7%A3%E6%95%B0%E7%8B%AC.md) | 哈希表,DFS | 必做题! |
 | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/38.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md) |  |  | 
+| [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md) | 动态规划,贪心算法 | 写出了动态规划,没写出贪心算法 |
 | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md) | 回溯 |  | 
 | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md) | 哈希表 | |
 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 动态规划, 贪心算法 | 写出了动态规划,没写出贪心解法 |
