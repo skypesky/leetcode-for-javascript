@@ -9,6 +9,7 @@
 | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  |
 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) |  |  |
 | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) | 滑动窗口 | 值得一做 |
+| [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md) | 动态规划, 中心拓展 | 虽然没写出来,但是理解了 |
 | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md) |  |  |
 | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md) | 双指针,字符串,反转 | |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  | 
