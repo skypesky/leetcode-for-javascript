@@ -29,15 +29,11 @@ function maxSubArray(nums: number[]): number {
 ```typescript
 function maxSubArray(nums: number[]): number {
 
-    let max: number = -100,
+    let max: number = nums[0],
         sum: number = 0;
 
     for (let i = 0; i < nums.length; ++i) {
-        if (sum > 0) {
-            sum += nums[i];
-        } else {
-            sum = nums[i];
-        }
+        sum = Math.max(sum, 0) + nums[i];
         max = Math.max(max, sum);
     }
 
