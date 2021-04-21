@@ -39,6 +39,7 @@
 | [274. H 指数](https://leetcode-cn.com/problems/h-index/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/274.%20H%20%E6%8C%87%E6%95%B0.md) | 哈希表,排序,桶排序 | |
 | [290. 单词规律](https://leetcode-cn.com/problems/valid-anagram/)| [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/290.%20%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B.md)| | |
 | [299. 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/submissions/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/299.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.md) | 哈希表 | |
+| [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.md) | 前缀和 | |
 | [345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/345.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.md) |  |  | 
 | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md) | 哈希表,桶排序,堆排序 | |
 | [355. 设计推特](https://leetcode-cn.com/problems/design-twitter/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/355.%20%E8%AE%BE%E8%AE%A1%E6%8E%A8%E7%89%B9.md) | 面向对象编程,哈希表 | |
