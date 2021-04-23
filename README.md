@@ -46,6 +46,7 @@
 | [345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/345.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.md) |  |  | 
 | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md) | 哈希表,桶排序,堆排序 | |
 | [355. 设计推特](https://leetcode-cn.com/problems/design-twitter/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/355.%20%E8%AE%BE%E8%AE%A1%E6%8E%A8%E7%89%B9.md) | 面向对象编程,哈希表 | |
+| [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/338.%20%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.md) | 动态规划 | successfully! |
 | [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/376.%20%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.md) | 贪心算法 | 自己思考出来了最优的解法 |
 | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/389.%20%E6%89%BE%E4%B8%8D%E5%90%8C.md) |  |  |   
 | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/392.%20%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md) | 双指针, 动态规划 | successfully! 动态规划没想出来 |
