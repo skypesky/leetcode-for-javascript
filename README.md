@@ -26,6 +26,7 @@
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
 | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 动态规划 | successfully! |
 | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/125.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md) |  |  |  
+| [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md) | 回溯, 动态规划 | successfully! |
 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/134.%20%E5%8A%A0%E6%B2%B9%E7%AB%99.md) | 贪心算法 | |
 | [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.md) | 哈希表 | |
 | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 快慢指针 |  |  
