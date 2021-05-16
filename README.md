@@ -22,6 +22,7 @@
 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) | 动态规划 | successfully! |
 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 动态规划, 贪心算法 | 写出了动态规划,没写出贪心解法 |
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) |  |  | 
+| [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 动态规划 | successfully! |
 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 动态规划 | successfully! |
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
 | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/96.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md) | 动态规划 | successfully! 自己想出来了! |
