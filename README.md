@@ -13,6 +13,7 @@
 | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md) |  |  |
 | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md) | 双指针,字符串,反转 | |
 | [15. 三数之和](https://leetcode-cn.com/problems/3sum/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) |  |  | 
+| [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 快慢指针 | fail!建议二刷! |
 | [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) |[题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md) | 哈希表 | |
 | [37. 解数独](leetcodeUrl) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/37.%20%E8%A7%A3%E6%95%B0%E7%8B%AC.md) | 哈希表,DFS | 必做题! |
 | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/38.%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md) |  |  | 
