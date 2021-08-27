@@ -60,6 +60,7 @@
 | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/389.%20%E6%89%BE%E4%B8%8D%E5%90%8C.md) |  |  |   
 | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/392.%20%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md) | 双指针, 动态规划 | successfully! 动态规划没想出来 |
 | [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/402.%20%E7%A7%BB%E6%8E%89K%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 栈 | |
+| [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/404.%20%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.md) | 递归 | successfully! |
 | [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md) | | |
 | [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/406.%20%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.md) | 排序 | |
 | [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/409.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.md) | | |
