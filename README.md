@@ -109,6 +109,7 @@
 | [846. 一手顺子](https://leetcode-cn.com/problems/hand-of-straights/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/846.%20%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90.md) | 哈希表, 排序 | |
 | [861. 翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/861.%20%E7%BF%BB%E8%BD%AC%E7%9F%A9%E9%98%B5%E5%90%8E%E7%9A%84%E5%BE%97%E5%88%86.md) | 贪心算法 | |
 | [870. 优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 排序, 哈希表 | 自己写出来了 |
+| [872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/872.%20%E5%8F%B6%E5%AD%90%E7%9B%B8%E4%BC%BC%E7%9A%84%E6%A0%91.md) | 递归 | successfully! |
 | [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/874.%20%E6%A8%A1%E6%8B%9F%E8%A1%8C%E8%B5%B0%E6%9C%BA%E5%99%A8%E4%BA%BA.md) | 设计 | |
 | [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/877.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F.md) | 双指针, 数学, 动态规划 | successfully! 动态规划没理解. |
 | [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/881.%20%E6%95%91%E7%94%9F%E8%89%87.md) | 双指针, 排序 | 做出来了,没仔细读题,多花了半个小时 |
