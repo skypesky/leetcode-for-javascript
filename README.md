@@ -129,6 +129,7 @@
 | [953. 验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/953.%20%E9%AA%8C%E8%AF%81%E5%A4%96%E6%98%9F%E8%AF%AD%E8%AF%8D%E5%85%B8.md) | | |
 | [954. 二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/954.%20%E4%BA%8C%E5%80%8D%E6%95%B0%E5%AF%B9%E6%95%B0%E7%BB%84.md) |  哈希表, 排序 | |
 | [957. N 天后的牢房](https://leetcode-cn.com/problems/prison-cells-after-n-days/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/957.%20N%20%E5%A4%A9%E5%90%8E%E7%9A%84%E7%89%A2%E6%88%BF.md) | 哈希表 | |
+| [965. 单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/965.%20%E5%8D%95%E5%80%BC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 递归, 哈希 | successfully! |
 | [966. 元音拼写检查器](https://leetcode-cn.com/problems/vowel-spellchecker/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/966.%20%E5%85%83%E9%9F%B3%E6%8B%BC%E5%86%99%E6%A3%80%E6%9F%A5%E5%99%A8.md) | | |
 | [970. 强整数](https://leetcode-cn.com/problems/powerful-integers/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/970.%20%E5%BC%BA%E6%95%B4%E6%95%B0.md) | 数学,对数运算 |  |  
 | [981. 基于时间的键值存储](leetcodeUrl) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/981.%20%E5%9F%BA%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E9%94%AE%E5%80%BC%E5%AD%98%E5%82%A8.md) | 哈希表,二分查找 | 方法已经想出来了,但是不够自信 |
