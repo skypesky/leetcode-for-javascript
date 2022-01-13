@@ -35,3 +35,7 @@ class KthLargest {
  * var param_1 = obj.add(val)
  */
 ```
+
+```typescript
+// TODO: 加入堆排序的解法
+```
