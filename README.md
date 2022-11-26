@@ -24,6 +24,7 @@
 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 动态规划, 贪心算法 | 写出了动态规划,没写出贪心解法 |
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) |  |  | 
 | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 动态规划 | successfully! |
+| [66. 加一](https://leetcode.cn/problems/plus-one/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/66.%20%E5%8A%A0%E4%B8%80.md) | 数组 | 5分钟内搞定 |
 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 动态规划 | successfully! |
 | [80. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [题解](https://github.com//skypesky/leetcode-for-javascript/blob/master/80.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md) | 双指针 | successfully! |
 | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/skypesky/leetcode-for-javascript/blob/master/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) |  |  |  
