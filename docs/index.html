@@ -1,16 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>github pages</title>
-    <style>
-      .title {
-        font-size: 2rem;
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>LeetCode JavaScript 题解</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="LeetCode JavaScript题解集合">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'LeetCode JavaScript 题解',
+      repo: 'skypesky/leetcode-for-javascript',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜索题解...',
+        noData: '找不到相关题解'
       }
-    </style>
-  </head>
-  <body>
-    <div class="title">github pages!!!</div>
-  </body>
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
 </html>

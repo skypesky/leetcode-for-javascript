@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-for-javascript",
+  "version": "1.0.0",
+  "description": "记录一下 leetcode 刷题记录，使用 typescript/javascript 编写。我的 leetcode 个人首页: [leetcode个人首页](https://leetcode-cn.com/u/skypesky/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "http-server -p 8000 ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypesky/leetcode-for-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skypesky/leetcode-for-javascript/issues"
+  },
+  "homepage": "https://github.com/skypesky/leetcode-for-javascript#readme"
+}
