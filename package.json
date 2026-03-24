@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "dev": "http-server -p 8000 ./docs"
+    "dev": "docsify serve docs"
   },
   "repository": {
     "type": "git",

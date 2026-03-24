@@ -13,9 +13,23 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
     />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+      title="docsify-darklight-theme"
+      type="text/css"
+    />
     <style>
       :root {
         --theme-color: #42b983;
+      }
+      /* 修复 docsify-darklight-theme 在某些情况下侧边栏的显示问题 */
+      .sidebar {
+        z-index: 20;
+      }
+      #docsify-darklight-theme {
+        right: 15px;
+        bottom: 70px;
       }
       .markdown-section {
         max-width: 1000px;
@@ -70,9 +84,31 @@
           crossChapter: true,
           crossChapterText: true,
         },
+        darklightTheme: {
+          defaultTheme: "light",
+          siteFont: "PT Sans",
+          codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
+          bodyFontSize: "15px",
+          dark: {
+            background: "#1c2022",
+            toggleBtnBg: "#34495e",
+            textColor: "#e6e6e6",
+            codeColor: "#f8f8f2",
+          },
+          light: {
+            background: "white",
+            toggleBtnBg: "#42b983",
+            textColor: "#2c3e50",
+            codeColor: "#2c3e50",
+          },
+        },
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script
+      src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+      type="text/javascript"
+    ></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
