@@ -75,6 +75,23 @@ sidebar 中的链接标题必须参考对应题解文件第一行 `# [XX. 题目
 - 所有题解文件统一存放在 `docs/` 目录下
 - 剑指 Offer 题解统一存放在 `docs/剑指 offer/` 目录下
 
+## 算法题解审查 Skill
+
+每当文件发生变更（git diff 存在）时，必须调用此 skill 进行审查：
+
+```
+/algorithm-review
+```
+
+**Skill 位置**：`.claude/skill.md`
+
+**审查内容**：
+1. **侧边栏更新**：检查 `docs/_sidebar.md` 是否需要同步更新
+2. **算法完整性**：检查题解文件的 `@description` 是否包含：
+   - 算法逻辑描述
+   - 时间复杂度（含推导过程）
+   - 空间复杂度（含推导过程）
+
 ## GitHub Actions
 
 - `deploy.yml` - 推送 to `main` 分支时自动部署到 GitHub Pages
