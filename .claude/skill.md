@@ -1,3 +1,8 @@
+---
+name: algorithm-review
+description: 当 docs 目录下的文件发生变更时，自动审查侧边栏配置和算法题解的 @description 完整性（时间/空间复杂度及推导过程）。
+---
+
 # 算法题解审查 Skill
 
 ## 触发条件
