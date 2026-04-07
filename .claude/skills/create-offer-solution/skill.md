@@ -31,7 +31,7 @@ description: 根据 LeetCode 链接自动创建《剑指 Offer》题解文件。
 
 **场景一：用户提供了解题代码**
 ```markdown
-# [16. 数值的整数次方](LeetCode链接)
+# [17. 打印从1到最大的 n 位数](LeetCode链接)
 
 ## 解法名称
 
@@ -54,7 +54,7 @@ function solution() {
 **场景二：用户只提供了链接**
 - 创建仅包含题目框架的文件：
 ```markdown
-# [16. 数值的整数次方](LeetCode链接)
+# [17. 打印从1到最大的 n 位数](LeetCode链接)
 
 ```
 
